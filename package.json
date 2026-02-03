@@ -1,0 +1,26 @@
+{
+  "name": "beathub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankkk06/beathub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mayankkk06/beathub/issues"
+  },
+  "homepage": "https://github.com/mayankkk06/beathub#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^9.1.5"
+  }
+}
